@@ -1,5 +1,5 @@
 # **Hello World in Solidity**
-### The classic "Hello World" starter code in Solidity.
+#### The classic "Hello World" starter code in Solidity.
 
 To learn how to code in Solidity, the first step will be to download _truffle_ and _solidity_ in your command window.
 ```
