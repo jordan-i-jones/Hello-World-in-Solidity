@@ -19,7 +19,7 @@ Solidity code is written in _.sol_ files. We can create this file with the follo
 ```
 create contract HelloEthSalon
 ```
-After doing this, if you check the contents of the _hello-ethereum-salon-contract_ you will see two _.sol_ files: _HelloEthSalon.sol_ and _Migrations.sol_. Open the _HelloEthSalon.sol_ file in your favorite editor. Add the following code into the file.
+After doing this, if you check the contents of contract folder in _hello-ethereum-salon-contract_ you will see two _.sol_ files: _HelloEthSalon.sol_ and _Migrations.sol_. Open the _HelloEthSalon.sol_ file in your favorite editor. Add the following code into the file.
 ```
 pragma solidity ^0.5.0;
   contract HelloEthSalon {
