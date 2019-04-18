@@ -63,4 +63,5 @@ contract("HelloEthSalon:GetMessage", function(accounts) {
  ```
  truffle test ./test/hello_eth_salon.js
  ```
- Congradulations you know how to write a smart contract in Solidity.
+ Congradulations you know how to write a smart contract in Solidity!
+You can play around witht the _message_ and keep testing the smart contract. Try it out by replacing "Hello Ethereum Salon!" with "I know testing of a contract!!"
