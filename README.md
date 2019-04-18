@@ -6,7 +6,7 @@ To learn how to code in Solidity, the first step will be to download _truffle_ a
 npm i -g truffle
 npm i -g solc
 ```
-Next use the following commands to create and enter your project folder.
+Next, use the following commands to create and enter your project folder.
 ```
 mkdir hello-ethereum-salon-contract
 cd hello-ethereum-salon-contract
